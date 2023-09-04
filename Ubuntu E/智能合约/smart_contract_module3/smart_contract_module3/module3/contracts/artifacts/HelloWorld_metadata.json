@@ -1,0 +1,61 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Set & change owner",
+			"kind": "dev",
+			"methods": {},
+			"title": "Owner",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/contracts/IncCredit.sol": "HelloWorld"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/contracts/IncCredit.sol": {
+			"keccak256": "0xe99648bd4e6422de436a3bc11f11538e4f923ce9ee3df420d32ec2a327015acd",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a512603c37591bacf8f47b6587d0fd2db1a8f81f5e01990248bcae6f9972046a",
+				"dweb:/ipfs/Qma6BaADNU2KDkNkzn7z4KFRyoaRhsKQV8HLSCyK33L1fu"
+			]
+		}
+	},
+	"version": 1
+}
